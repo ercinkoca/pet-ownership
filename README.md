@@ -9,3 +9,4 @@
 - The application runs on 8080 port.
 - You can access this application's Swagger url: http://localhost:8080/swagger-ui.html
 - You can access the Screen Shot images on 'Screen Shots' file.
+- You can access the home page http://localhost:8080/ with this address.
