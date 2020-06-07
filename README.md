@@ -7,5 +7,5 @@
 - You can access all config informations in application-test.yml and application-prod.yml files.
 - While start the application, you should run the app with SPRING_PROFILES_ACTIVE=test or SPRING_PROFILES_ACTIVE=prod  environment.
 - The application runs on 8080 port.
-- You can access this application's Swagger url: localhost:8080/swagger-ui.html
+- You can access this application's Swagger url: http://localhost:8080/swagger-ui.html
 - You can access the Screen Shot images on 'Screen Shots' file.
