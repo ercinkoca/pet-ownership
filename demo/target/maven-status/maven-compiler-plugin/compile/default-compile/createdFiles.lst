@@ -1,0 +1,15 @@
+com\pet\ownership\model\PetsModel.class
+com\pet\ownership\model\ApiResponse.class
+com\pet\ownership\service\PetOwnershipService.class
+com\pet\ownership\config\JsonLoader$1.class
+com\pet\ownership\model\CustomersModel.class
+com\pet\ownership\PetOwnershipApplication.class
+com\pet\ownership\config\JsonLoader.class
+com\pet\ownership\repository\CustomerRepository.class
+com\pet\ownership\service\impl\PetOwnershipServiceImpl.class
+com\pet\ownership\controller\PetOwnershipController.class
+com\pet\ownership\config\SwaggerConfig.class
+com\pet\ownership\config\JsonLoader$2.class
+com\pet\ownership\entity\Customers.class
+com\pet\ownership\entity\Pets.class
+com\pet\ownership\repository\PetRepository.class

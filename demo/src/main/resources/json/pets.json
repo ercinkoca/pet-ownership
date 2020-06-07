@@ -1,0 +1,326 @@
+[
+	{
+		"id":1,
+		"animal_name":"Pie, indian tree"
+	},
+	{
+		"id":2,
+		"animal_name":"African jacana"
+	},
+	{
+		"id":3,
+		"animal_name":"Squirrel, smith's bush"
+	},
+	{
+		"id":4,
+		"animal_name":"Weaver, chestnut"
+	},
+	{
+		"id":5,
+		"animal_name":"Kafue flats lechwe"
+	},
+	{
+		"id":6,
+		"animal_name":"Western spotted skunk"
+	},
+	{
+		"id":7,
+		"animal_name":"White-tailed jackrabbit"
+	},
+	{
+		"id":8,
+		"animal_name":"Spoonbill, european"
+	},
+	{
+		"id":9,
+		"animal_name":"Squirrel, richardson's ground"
+	},
+	{
+		"id":10,
+		"animal_name":"Tern, arctic"
+	},
+	{
+		"id":11,
+		"animal_name":"Chameleon (unidentified)"
+	},
+	{
+		"id":12,
+		"animal_name":"Southern ground hornbill)"
+	},
+	{
+		"id":13,
+		"animal_name":"Anaconda (unidentified)"
+	},
+	{
+		"id":14,
+		"animal_name":"Skink, blue-tongued"
+	},
+	{
+		"id":15,
+		"animal_name":"Woodpecker, red-headed"
+	},
+	{
+		"id":16,
+		"animal_name":"Squirrel, arctic ground"
+	},
+	{
+		"id":17,
+		"animal_name":"Waxbill, violet-eared"
+	},
+	{
+		"id":18,
+		"animal_name":"Stanley bustard"
+	},
+	{
+		"id":19,
+		"animal_name":"Mexican boa"
+	},
+	{
+		"id":20,
+		"animal_name":"Swainson's francolin"
+	},
+	{
+		"id":21,
+		"animal_name":"Tortoise, indian star"
+	},
+	{
+		"id":22,
+		"animal_name":"African polecat"
+	},
+	{
+		"id":23,
+		"animal_name":"African skink"
+	},
+	{
+		"id":24,
+		"animal_name":"White stork"
+	},
+	{
+		"id":25,
+		"animal_name":"Pygmy possum"
+	},
+	{
+		"id":26,
+		"animal_name":"Masked booby"
+	},
+	{
+		"id":27,
+		"animal_name":"Northern phalarope"
+	},
+	{
+		"id":28,
+		"animal_name":"Four-horned antelope"
+	},
+	{
+		"id":29,
+		"animal_name":"Red-necked phalarope"
+	},
+	{
+		"id":30,
+		"animal_name":"Nilgai"
+	},
+	{
+		"id":31,
+		"animal_name":"Rat, desert kangaroo"
+	},
+	{
+		"id":32,
+		"animal_name":"Denham's bustard"
+	},
+	{
+		"id":33,
+		"animal_name":"Dunnart, fat-tailed"
+	},
+	{
+		"id":34,
+		"animal_name":"Topi"
+	},
+	{
+		"id":35,
+		"animal_name":"Mongoose, yellow"
+	},
+	{
+		"id":36,
+		"animal_name":"Turtle (unidentified)"
+	},
+	{
+		"id":37,
+		"animal_name":"Tern, royal"
+	},
+	{
+		"id":38,
+		"animal_name":"Kangaroo, western grey"
+	},
+	{
+		"id":39,
+		"animal_name":"Red-headed woodpecker"
+	},
+	{
+		"id":40,
+		"animal_name":"Canadian river otter"
+	},
+	{
+		"id":41,
+		"animal_name":"Knob-nosed goose"
+	},
+	{
+		"id":42,
+		"animal_name":"Savanna baboon"
+	},
+	{
+		"id":43,
+		"animal_name":"Goose, canada"
+	},
+	{
+		"id":44,
+		"animal_name":"Red-cheeked cordon bleu"
+	},
+	{
+		"id":45,
+		"animal_name":"Pied crow"
+	},
+	{
+		"id":46,
+		"animal_name":"Hornbill, leadbeateri's ground"
+	},
+	{
+		"id":47,
+		"animal_name":"Canada goose"
+	},
+	{
+		"id":48,
+		"animal_name":"Greater adjutant stork"
+	},
+	{
+		"id":49,
+		"animal_name":"Sun gazer"
+	},
+	{
+		"id":50,
+		"animal_name":"Javan gold-spotted mongoose"
+	},
+	{
+		"id":51,
+		"animal_name":"Tokay gecko"
+	},
+	{
+		"id":52,
+		"animal_name":"Two-toed tree sloth"
+	},
+	{
+		"id":53,
+		"animal_name":"Tarantula"
+	},
+	{
+		"id":54,
+		"animal_name":"Snake, racer"
+	},
+	{
+		"id":55,
+		"animal_name":"Great horned owl"
+	},
+	{
+		"id":56,
+		"animal_name":"Chital"
+	},
+	{
+		"id":57,
+		"animal_name":"Common ringtail"
+	},
+	{
+		"id":58,
+		"animal_name":"White-browed sparrow weaver"
+	},
+	{
+		"id":59,
+		"animal_name":"Boar, wild"
+	},
+	{
+		"id":59,
+		"animal_name":"Boar, wild"
+	},
+	{
+		"id":60,
+		"animal_name":"Woodrat (unidentified)"
+	},
+	{
+		"id":61,
+		"animal_name":"Magellanic penguin"
+	},
+	{
+		"id":62,
+		"animal_name":"African lion"
+	},
+	{
+		"id":63,
+		"animal_name":"Eastern diamondback rattlesnake"
+	},
+	{
+		"id":64,
+		"animal_name":"Crow, pied"
+	},
+	{
+		"id":65,
+		"animal_name":"Lesser masked weaver"
+	},
+	{
+		"id":66,
+		"animal_name":"Marine iguana"
+	},
+	{
+		"id":67,
+		"animal_name":"Marine iguana"
+	},
+	{
+		"id":68,
+		"animal_name":"Paddy heron (unidentified)"
+	},
+	{
+		"id":69,
+		"animal_name":"Antechinus, brown)"
+	},
+	{
+		"id":70,
+		"animal_name":"Secretary bird"
+	},
+	{
+		"id":71,
+		"animal_name":"Hawk, red-tailed"
+	},
+	{
+		"id":72,
+		"animal_name":"Avocet, pied"
+	},
+	{
+		"id":73,
+		"animal_name":"Yak"
+	},
+	{
+		"id":74,
+		"animal_name":"Swallow-tail gull"
+	},
+	{
+		"id":75,
+		"animal_name":"Asian elephant"
+	},
+	{
+		"id":76,
+		"animal_name":"Egyptian cobra"
+	},
+	{
+		"id":77,
+		"animal_name":"Nubian bee-eater"
+	},
+	{
+		"id":78,
+		"animal_name":"Otter, brazilian"
+	},
+	{
+		"id":79,
+		"animal_name":"Jungle cat"
+	},
+	{
+		"id":80,
+		"animal_name":"Shelduck, european"
+	}
+]

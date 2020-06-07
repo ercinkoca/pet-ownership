@@ -1,0 +1,25 @@
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/jsp/
+      suffix: .jsp
+  application:
+    name: pet-ownership-app
+  datasource:
+    url : jdbc:mysql://localhost/pet_ownership?verifyServerCertificate=false&useSSL=false
+    username : root
+    password : root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    database : MYSQL 
+    show-sql : true
+    hibernate:
+     ddl-auto : update
+    database-platform : org.hibernate.dialect.MySQL5InnoDBDialect
+server:
+  port: 8080
+
+#You can change the json path file from here to read and save to db.
+json: 
+  customerurl: /json/customers.json
+  peturl: /json/pets.json
